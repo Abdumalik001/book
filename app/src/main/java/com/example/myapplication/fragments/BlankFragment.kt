@@ -44,6 +44,8 @@ class BlankFragment : BaseFragment() {
         val parceColor = Color.parseColor(color)
         val night1 = Color.parseColor(colorsStatusbar[0])
         val night2 = Color.parseColor(colorsStatusbar[1])
+        val night3 = Color.parseColor(colorsStatusbar[1])
+
 
 
         if (mode.equals("night")) {
