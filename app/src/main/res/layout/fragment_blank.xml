@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/back_blank"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragments.BlankFragment">
+
+    <LinearLayout
+        android:id="@+id/custom_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="#550000"
+        android:elevation="20dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:outlineAmbientShadowColor="@color/black"
+        android:padding="3dp"
+        android:weightSum="6">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+
+            android:background="@null"
+            android:src="@drawable/ic_back" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+
+            android:id="@+id/title_about"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="3"
+            android:gravity="center_vertical"
+            android:text="sdvakldfvabndklvnk"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/about_writertxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            tools:text="sdvkljndf;lbksnd;flbkn;lbkn;lbnsl;fgbnslgbnk"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/about_book"
+        android:icon="@drawable/ic_about_writer"
+        android:title="@string/muallif_haqida_menu" />
+    <item
+        android:id="@+id/settings_menu"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/sozlamalar" />
+    <item
+        android:id="@+id/think"
+        android:icon="@drawable/ic_think"
+        android:title="@string/fikr_mulohaza_yo_llash" />
+    <item
+        android:id="@+id/about_prog"
+        android:icon="@drawable/ic_about_prog"
+        android:title="@string/dastur_haqida" />
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/chiqish" />
+</menu>

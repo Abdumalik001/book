@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Qiyomat va Ohirat</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="qiyomat_va_oxirat">Qiyomat va Oxirat</string>
+    <string name="muallif"> 𝐈𝐦𝐨𝐦 𝐚𝐥-𝐆`𝐚𝐳𝐳𝐨𝐥𝐢𝐲</string>
+    <string name="muallif_haqida">Abu Homid Muhammad ibn Muhammad al-Gʻazzoliy (1058 — Tus (Eron) — 1111) — islom ilohiyotchisi, faylasuf.
+"Gʻazzoliy" taxallusi haqida turli fikr bor. Baʼzi olimlar gʻazzol (ip yigiruvchi) oilasida tugʻilgan, shu sababdan Gʻazzoliy taxallusini olgan desa, boshqalari esa Gʻazola (Tus yaqinidagi qishloq)da tugʻilgan, shuning uchun taxallusi Gʻazoliy deb hisoblaydilar. Nishopur (Sharqiy Eron) va Bagʻdodda taʼlim olgan. "Nizomiya" madrasasi (Bagʻdod)da islom huquqshunosligidan dars bergan. Mudarrislikdan voz kechib, 11 yil zohidlikda hayot kechirgan, ilm bilan mashgʻul boʻlgan. 1105 yilda Nishopurga kelib, yana madrasada mudarrislik qildi, ammo bu hol uzoqqa choʻzilmadi. Tusga koʻchib borib 300 ga yaqin talabaga xususiy tarzda dars berdi. Uning fiqhga doir "Bosit", "Vojiz", "Vosit", aqidaga doir "Qavoid al-Aqoid" ("Aqidalarning qoidalari"), "ar-Risolat al-qudsiya" ("Qudsiya risolasi"), mutasavviflar uchun "Ihya ulum ad-din" ("Diniy ilmlarni tiriltirish"), "Mukoshafat ul-qulub" ("Qalblar kashfiyoti") asarlari mashhur. Shuningdek, "Tahofut al-falasifa" ("Faylasuflarni rad etish"), "Kimyo-i-saodat" ("Saodat kimyosi"), "Maqosid al-falasifa" ("Faylasuflarning maqsadlari") asarlari olim ijodida muayyan oʻrinni egallaydi. Bu asarlarda Forobiy, Ibn Sino, Abu Hayyon atTavhidiy qarashlarining taʼsirini koʻrish mumkin.</string>
+    <string name="matn_olchami">Mant o`lchamini</string>
+    <string name="_25">18</string>
+    <string name="sozlamalar">Sozlamalar</string>
+    <string name="dastur_ko_rinishini_tanlang">Dastur ko`rinishini tanlang</string>
+    <string name="matn_tilini_tanlang">Matn tilini tanlang</string>
+    <string name="muallif_haqida_menu">Muallif haqida</string>
+    <string name="fikr_mulohaza_yo_llash">Fikr-mulohaza yo`llash</string>
+    <string name="dastur_haqida">Dastur haqida</string>
+    <string name="chiqish">Chiqish</string>
+    <string name="fon_ranginitanlang">Fon rangini tanlang</string>
+</resources>
